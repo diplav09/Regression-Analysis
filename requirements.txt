@@ -1,0 +1,10 @@
+numpy
+pandas
+logging
+nltk
+contractions
+scikit-learn
+matplotlib
+pickle
+umap
+umap-learn
