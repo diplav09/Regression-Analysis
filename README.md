@@ -1,4 +1,4 @@
-# Project 3 
+# Project 4 
     Regression-Analysis
 ### 1. Team Members
     Rachel Menezes (905508013)
@@ -7,13 +7,11 @@
 
 ### 2. File contents
 
-    1. Recommendation_System_Part1.ipynb                     --  Python notebook for Q1-6 (Dataset and KNN)
-    2. LSDM_Project_3_NMF_part.ipynb                         -- Python notebook for Q7-9 (NMF)
-    3. ECE236B_Project3_MF_Collaborative_Filter.ipynb        -- Python notebook for Q10-11 (MF)
-    4. LSDM_Project3_Q12.ipynb                               -- Python notebook for Q12
-    5. Twitter_Data.ipynb                                    -- Python notebook for Q9-10 (Twitter Data)
-    5. Project_4_Report_Rachel_Menezes_905508013_Diplav_605627748_Evyn_Chiappe_605201321.pdf    -- Report
-    6. requirements.txt    -- library required
+    1. LSDM Project 4 Diamonds 1-6                           --  Python notebook for Q1-6 
+    2. LSDM_Project 4 Diamonds 7-8                           -- Python notebook for Q7-8 
+    3. Twitter_Data.ipynb                                    -- Python notebook for Q9-10
+    4. Project_4_Report_Rachel_Menezes_905508013_Diplav_605627748_Evyn_Chiappe_605201321.pdf    -- Report
+    5. requirements.txt    -- library required
 
 
 ### 3. Setup
